@@ -1,4 +1,8 @@
-# Rust-Development-Environments
+# Rust Development Environments
+
+<p align="center">
+  <img src="images/logo.png" alt="Rust Development Environments Logo" width="300"/>
+</p>
 
 [![Markdown Lint](https://github.com/interwebshack/Rust-Development-Environments/actions/workflows/markdown-lint.yml/badge.svg)](https://github.com/interwebshack/Rust-Development-Environments/actions/workflows/markdown-lint.yml)  
 
