@@ -35,6 +35,6 @@ pymarkdown scan docs
 ```
 For **auto-fix:**  
 ```shell
-pymarkdown --fix scan docs
+pymarkdown fix docs
 
 ```
