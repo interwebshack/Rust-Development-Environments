@@ -6,7 +6,7 @@ on:
       - 'docs/**/*.md'
   push:
     branches:
-      - main
+      - [main, feature/windows-offline]
     paths:
       - 'docs/**/*.md'
 
