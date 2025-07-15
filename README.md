@@ -1,4 +1,4 @@
-# Rust Development Environments
+<h1 align="center">Rust Development Environments</h1>
 
 <p align="center">
   <img src="images/logo.png" alt="Rust Development Environments Logo" width="300"/>
