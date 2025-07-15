@@ -1,4 +1,10 @@
 {
-  "default": true,
-  "MD033": false  // allow inline HTML
+  "plugins": {
+    "md013": {
+      "enabled": true
+    },
+    "md033": {
+      "enabled": false
+    }
+  }
 }
